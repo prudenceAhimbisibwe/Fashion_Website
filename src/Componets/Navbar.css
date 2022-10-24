@@ -1,0 +1,15 @@
+ .nav  ul li {
+    text-align: left;
+    padding: 1%;
+    margin: 1%; 
+    display: inline-flex;  
+ }
+ .nav a{
+   text-decoration: none;
+   text-decoration-color: rgb(111, 111, 177);
+   
+ }
+ .nav{
+   margin-left: 60%;
+ }
+ 
